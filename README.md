@@ -132,11 +132,13 @@ int main(void)
 
 ## OUTPUT
 
-<img width="640" height="640" alt="exp2-1" src="https://github.com/user-attachments/assets/60c5df9e-9cae-4b3d-a99a-c806035544d4" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/852e1b39-fc63-4492-8e6b-085632d86e38" />
+
 
 <br>
 
-<img width="640" height="640" alt="exp2-2" src="https://github.com/user-attachments/assets/a7300e5f-717c-4b2a-a175-139696fca531" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c1cdc3b5-2eeb-42a4-a510-762e533dbb31" />
 
 
 
